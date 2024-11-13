@@ -1,6 +1,6 @@
 /* Motivational Quote Box By Tecky AaryaN*/
 .wrapper {
-    background: linear-gradient(to top left, var(--linkB) -500%, #0000 300%);
+    background: linear-gradient(to top left, var(--linkB) -900%, #0000 300%);
     border-radius: 10px;
     padding: 10px 15px 15px;
 }
